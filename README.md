@@ -1,5 +1,8 @@
 # Lane_Segmentation
 
+
+![lane](https://user-images.githubusercontent.com/106477719/208263411-2e1672b8-fc3e-4f32-973e-6efb6f61f3b0.png)
+
 # Contents
 data_preparation.ipynb: Use this notebook for generating train, validation and test data (Dataset TuSimple);
 
